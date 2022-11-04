@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T04:37:08.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="WSIS0K-TQ2PMKAQQ2Id_" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T04:37:35.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="H4o-z3_dyxbnTz3qAUeA" version="20.5.1" type="github">
   <diagram id="q2mEc2f69ox3cyNP8bGJ" name="Страница 1">
     <mxGraphModel dx="1577" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="LsigQm8mnR0WeVyQaVKX-13" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LsigQm8mnR0WeVyQaVKX-10">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LsigQm8mnR0WeVyQaVKX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LsigQm8mnR0WeVyQaVKX-14" target="LsigQm8mnR0WeVyQaVKX-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LsigQm8mnR0WeVyQaVKX-14" value="Назначение" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="400" width="160" height="86" as="geometry" />
