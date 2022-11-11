@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T07:35:52.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="LKR8oJbWUiMC9Tm490L1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T10:13:39.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="HlpZOhBiQn1BlUVeFbc-" version="20.5.3" type="github">
   <diagram id="j7IhF_FTUhUezkyQDDxe" name="Страница 1">
     <mxGraphModel dx="2404" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="30OYC12CVd-00JcdYXrn-4" value="Firewall" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
-          <mxGeometry x="300" y="442.5" width="100" height="100" as="geometry" />
+          <mxGeometry x="363" y="442.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="30OYC12CVd-00JcdYXrn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="30OYC12CVd-00JcdYXrn-5" target="30OYC12CVd-00JcdYXrn-3">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="30OYC12CVd-00JcdYXrn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="30OYC12CVd-00JcdYXrn-5" target="30OYC12CVd-00JcdYXrn-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint y="515" />
+              <mxPoint x="10" y="515" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -55,6 +55,14 @@
         </mxCell>
         <mxCell id="30OYC12CVd-00JcdYXrn-21" value="Internet" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="560" y="467.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="30OYC12CVd-00JcdYXrn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="30OYC12CVd-00JcdYXrn-34" target="30OYC12CVd-00JcdYXrn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035" y="370" />
+              <mxPoint x="315" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="30OYC12CVd-00JcdYXrn-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="392.5" width="590" height="200" as="geometry" />
