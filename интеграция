@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T09:04:13.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="aba1y1VENyyGnhPWrsjh" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T06:06:07.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="v30bPsNuYxyDsVFKM7al" version="20.5.3" type="github">
   <diagram id="j7IhF_FTUhUezkyQDDxe" name="Страница 1">
-    <mxGraphModel dx="2023" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="30OYC12CVd-00JcdYXrn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="30OYC12CVd-00JcdYXrn-3" target="30OYC12CVd-00JcdYXrn-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="30OYC12CVd-00JcdYXrn-3" target="30OYC12CVd-00JcdYXrn-34">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="30OYC12CVd-00JcdYXrn-3" target="30OYC12CVd-00JcdYXrn-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="30OYC12CVd-00JcdYXrn-3" value="Сервер приложений&lt;br&gt;Camunda" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="30OYC12CVd-00JcdYXrn-17" value="Сервер БД&lt;br&gt;Camunda" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" parent="1" vertex="1">
           <mxGeometry x="950" y="172.5" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="30OYC12CVd-00JcdYXrn-21" target="VPa9FIvRKTgbZJVJi_jv-1">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="30OYC12CVd-00JcdYXrn-21" target="VPa9FIvRKTgbZJVJi_jv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="30OYC12CVd-00JcdYXrn-21" value="Internet" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" parent="1" vertex="1">
@@ -61,28 +61,28 @@
         <mxCell id="30OYC12CVd-00JcdYXrn-37" value="Сервер БД&lt;br&gt;Росреестра" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" parent="1" vertex="1">
           <mxGeometry x="1200" y="440" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPa9FIvRKTgbZJVJi_jv-1" target="30OYC12CVd-00JcdYXrn-3">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPa9FIvRKTgbZJVJi_jv-1" target="30OYC12CVd-00JcdYXrn-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-1" value="Firewall" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-1" value="Firewall" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="570" y="175" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPa9FIvRKTgbZJVJi_jv-7" target="30OYC12CVd-00JcdYXrn-36">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VPa9FIvRKTgbZJVJi_jv-7" target="30OYC12CVd-00JcdYXrn-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-7" value="Сервер &amp;nbsp;API" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-7" value="Сервер &amp;nbsp;API" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
           <mxGeometry x="820" y="442.5" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-340" y="140" width="650" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-12" value="На стороне клиента" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-12" value="На стороне клиента" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-340" y="145" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="110" width="530" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="VPa9FIvRKTgbZJVJi_jv-14" value="Серверы Camunda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VPa9FIvRKTgbZJVJi_jv-14" value="Серверы Camunda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
