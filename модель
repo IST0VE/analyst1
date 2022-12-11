@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T10:22:32.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.2" etag="yp1xL2OZJCIIhD1yo8v4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T10:35:49.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.2" etag="soV3lDp--M7F4VnEJh0A" type="github">
   <diagram id="hBC0hfzdYicBnqn_HAm2" name="Страница 1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,6 +106,25 @@
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SQjBs3tmmBM7PJiLBhQI-34" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="SQjBs3tmmBM7PJiLBhQI-32">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQjBs3tmmBM7PJiLBhQI-35" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SQjBs3tmmBM7PJiLBhQI-17" target="SQjBs3tmmBM7PJiLBhQI-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="203" />
+              <mxPoint x="430" y="280" />
+              <mxPoint x="210" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQjBs3tmmBM7PJiLBhQI-36" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="SQjBs3tmmBM7PJiLBhQI-35">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-40" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQjBs3tmmBM7PJiLBhQI-37" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="SQjBs3tmmBM7PJiLBhQI-35">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
